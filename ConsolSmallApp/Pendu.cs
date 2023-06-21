@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsolSmallApp
 {
+    //ToDo Ajouter les fonctionnalité préconiser par Clémence.
     internal class Pendu
     {
         private Random _random = new Random();
