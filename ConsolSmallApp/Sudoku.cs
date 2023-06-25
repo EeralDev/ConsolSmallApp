@@ -9,6 +9,6 @@ namespace ConsolSmallApp
     //Nouveaux jeux a développer : Sudoku
     internal class Sudoku
     {
-        public int _numberOfShowNumber;
+        public int _difficulty;
     }
 }
