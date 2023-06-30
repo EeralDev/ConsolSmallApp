@@ -14,6 +14,7 @@ namespace ConsolSmallApp
 
         public Sudoku() 
         {
+            Console.WriteLine("Le vrai rajoute des truc en haut");
             Console.WriteLine("Nanana");
             Console.WriteLine("ZUZUZUZU");
             Console.WriteLine("La je teste la situation ou tout le monde commit comme un idiot");
