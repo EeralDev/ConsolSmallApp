@@ -16,7 +16,11 @@ namespace ConsolSmallApp
         {
             Console.WriteLine("Nanana");
             Console.WriteLine("ZUZUZUZU");
+            Console.WriteLine("La je teste la situation ou tout le monde commit comme un idiot");
+            Console.WriteLine("regardons ce qu'il se passe !");
             Console.WriteLine("est-ce qu el git pull va marcher");
+            Console.WriteLine("Le conflit est gérer maintenant on va faire des folies");
+            
         }
     }
 }
