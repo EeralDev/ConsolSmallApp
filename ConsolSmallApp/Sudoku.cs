@@ -16,7 +16,10 @@ namespace ConsolSmallApp
         {
             Console.WriteLine("Nanana");
             Console.WriteLine("ZUZUZUZU");
+            Console.WriteLine("blablabla je suis quelqu'un d'autre qui fais des test");
+            Console.WriteLine("Tu pues du cul");
             Console.WriteLine("est-ce qu el git pull va marcher");
+            Console.WriteLine("On va voir si ça marche");
         }
     }
 }
