@@ -27,6 +27,7 @@ namespace ConsolSmallApp
             Console.WriteLine("Que se passe-t-il");
             Console.WriteLine("Pourquoi ...");
             Console.WriteLine("Je rajoute plein de truc en vrai");
+            Console.WriteLine("Le clone ajoute un truc en bas");
         }
     }
 }
