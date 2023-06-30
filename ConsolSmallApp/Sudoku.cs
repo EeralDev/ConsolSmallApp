@@ -9,9 +9,12 @@ namespace ConsolSmallApp
     //Nouveaux jeux a développer : Sudoku
     internal class Sudoku
     {
+        int[] gameTab;
         private int _difficulty;
 
         public Sudoku() 
-        { }
+        {
+        }
     }
 }
+
