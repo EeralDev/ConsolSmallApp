@@ -15,6 +15,8 @@ namespace ConsolSmallApp
         public Sudoku() 
         {
             Console.WriteLine("Nanana");
+            Console.WriteLine("ZUZUZUZU");
+            Console.WriteLine("est-ce qu el git pull va marcher");
         }
     }
 }
