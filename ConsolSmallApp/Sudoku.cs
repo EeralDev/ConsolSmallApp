@@ -18,6 +18,7 @@ namespace ConsolSmallApp
             Console.WriteLine("Nanana");
             Console.WriteLine("ZUZUZUZU");
             Console.WriteLine("La je teste la situation ou tout le monde commit comme un idiot et je veux vraiment réussir un rebase propre");
+            Console.WriteLine("Je sais pas ce qu'il va se passer");
             Console.WriteLine("regardons ce qu'il se passe !");
             Console.WriteLine("blablabla je suis quelqu'un d'autre qui fais des test");
             Console.WriteLine("Tu pues du cul Nan c'est toi qui put du cul");
