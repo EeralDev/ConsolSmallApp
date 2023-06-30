@@ -68,7 +68,7 @@ namespace ConsolSmallApp
                 File.WriteAllText("..\\..\\..\\jsonSave\\globalScoreTable.json", jsonString);
             }
 
-
+            Console.WriteLine("Je dois rebosser l'architecture du soft au plus vite");
 
             int input = -1;
             Console.Title = "Jeux simple et amusant !";
