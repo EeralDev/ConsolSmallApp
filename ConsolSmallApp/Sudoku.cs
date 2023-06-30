@@ -19,11 +19,10 @@ namespace ConsolSmallApp
             Console.WriteLine("La je teste la situation ou tout le monde commit comme un idiot");
             Console.WriteLine("regardons ce qu'il se passe !");
             Console.WriteLine("blablabla je suis quelqu'un d'autre qui fais des test");
-            Console.WriteLine("Tu pues du cul");
-            Console.WriteLine("est-ce qu el git pull va marcher");
-            Console.WriteLine("Le conflit est gérer maintenant on va faire des folies");
-            
-            Console.WriteLine("On va voir si ça marche");
+            Console.WriteLine("Tu pues du cul Nan c'est toi qui put du cul");
+            Console.WriteLine("est-ce qu el git merge est meilleur que le git rebase");
+            Console.WriteLine("Le conflit est je n'en sais rien");            
+            Console.WriteLine("On va voir si ça marche Let's go and let's see");
         }
     }
 }
