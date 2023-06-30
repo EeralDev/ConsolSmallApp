@@ -23,6 +23,10 @@ namespace ConsolSmallApp
             Console.WriteLine("est-ce qu el git merge est meilleur que le git rebase");
             Console.WriteLine("Le conflit est je n'en sais rien");            
             Console.WriteLine("On va voir si ça marche Let's go and let's see");
+            Console.WriteLine("On regarde ce qu'il se passe quand on rebase");
+            Console.WriteLine("est-ce que ça va encore déconner");
+            Console.WriteLine("Je ne le sais pas");            
+            Console.WriteLine("On croise les doigt");
         }
     }
 }
