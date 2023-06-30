@@ -73,7 +73,7 @@ namespace ConsolSmallApp
             int input = -1;
             Console.Title = "Jeux simple et amusant !";
             DateTime startDate= DateTime.Now;
-
+            Console.WriteLine("En vrai on va recoder ça propre avec de beaux objets etc...");
             Player currentplayer = new Player();
             GlobalScoreTable currentGlobalScoreTable = initGlobalScoreTable();
             Console.WriteLine(currentplayer.PlayerName);
