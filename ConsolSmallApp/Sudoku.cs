@@ -14,6 +14,7 @@ namespace ConsolSmallApp
 
         public Sudoku() 
         {
+            Console.WriteLine("Nanana");
         }
     }
 }
