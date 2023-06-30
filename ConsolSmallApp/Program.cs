@@ -69,11 +69,12 @@ namespace ConsolSmallApp
             }
 
             Console.WriteLine("Je suis crever la");
+            Console.WriteLine("Je dois rebosser l'architecture du soft au plus vite");
 
             int input = -1;
             Console.Title = "Jeux simple et amusant !";
             DateTime startDate= DateTime.Now;
-            Console.WriteLine("En vrai on va recoder ça propre avec de beaux objets etc...");
+            Console.WriteLine("Ok on s'y remet mais on ne feras plus que des git pull classique");
             Player currentplayer = new Player();
             GlobalScoreTable currentGlobalScoreTable = initGlobalScoreTable();
             Console.WriteLine(currentplayer.PlayerName);
