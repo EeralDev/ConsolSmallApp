@@ -12,6 +12,7 @@ namespace ConsolSmallApp
     internal class Sudoku
     {
         //Du coup la je fais juste un petit commit pour décaler ma branche Sudoku
+        // J'essaie d'ajouter un truc pour voir si l'autre voit encore la branche qui n'est plus sensé exister !
         int[] gameTab;
         private int _difficulty;
 
