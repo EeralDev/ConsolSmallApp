@@ -17,6 +17,7 @@ using System.Data.SQLite;
 // _lastLogin Date
 // PlayTime
 // Faire une class mère _player et une classe fille connectedPlayer pour différencier le joueur invité du joueur connecter
+// Je suis d'accord de fou
 
 namespace ConsolSmallApp
 {
