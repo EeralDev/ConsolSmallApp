@@ -5,6 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SQLite;
 
+// Attribut et Getter Setter
+// Todo retravailler le stockage en base de données des joueur 
+// Ajouter un vrai module de connexion en début de logiciel 
+// Ajouter une variable temps de jeux du joueur 
+// Ajouter un tableau de score personnelle au joueur chercher un méthode de stockage en base de donnée
+
 namespace ConsolSmallApp
 {
     internal class Player
