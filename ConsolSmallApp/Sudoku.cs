@@ -14,7 +14,12 @@ namespace ConsolSmallApp
 
         public Sudoku() 
         {
+<<<<<<< Updated upstream
             
+=======
+            Console.WriteLine("ZUZUZUZU");
+            Console.WriteLine("est-ce qu el git pull va marcher");
+>>>>>>> Stashed changes
         }
     }
 }
