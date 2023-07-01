@@ -11,6 +11,13 @@ using System.Data.SQLite;
 // Ajouter une variable temps de jeux du joueur 
 // Ajouter un tableau de score personnelle au joueur chercher un méthode de stockage en base de donnée
 
+// Définition des attribut d'un joueur :
+// int _playerName/ _password (faire des recherche sur .Net Secret)
+// Score Table (retravailler sur l'objet pour l'adapter)
+// _lastLogin Date
+// PlayTime
+// Faire une class mère _player et une classe fille connectedPlayer pour différencier le joueur invité du joueur connecter
+
 namespace ConsolSmallApp
 {
     internal class Player
