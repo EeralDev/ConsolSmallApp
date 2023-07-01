@@ -1,0 +1,280 @@
+[33mcommit 69923c8536d42ff65c51b00735612265a33a11e5[m[33m ([m[1;31morigin/UserDev[m[33m, [m[1;32mUserDev[m[33m)[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Sat Jul 1 14:27:55 2023 +0200
+
+    Le clone donne juste son avis pour voir ce qu'il se passe
+
+[33mcommit b8c556e9664cd6e2113dc03b5b00a23ce9aa8ec5[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Sat Jul 1 14:18:13 2023 +0200
+
+    Reflexion autour du redéveloppement de l'objet joueur
+
+[33mcommit c3d68e96d67ea6db2a66404e99533d47846d34ee[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Sat Jul 1 14:11:53 2023 +0200
+
+    Ajout des TodD propre à la gestion d'utilisateur
+
+[33mcommit 3f0ac90be2fc7c0135694dd7ff5d869c287279e3[m
+Merge: 69d2dce f9ada1f
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:52:55 2023 +0200
+
+    On a rendu propre c'est finis
+
+[33mcommit 69d2dce81f0c869a997bca944ddaebd123af9c72[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:50:35 2023 +0200
+
+    Le projet est de nouveau propre
+
+[33mcommit f9ada1f5e5c03b400e7873ff2bff92e4c5052a5f[m
+Merge: d45f5b7 7946433
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:49:26 2023 +0200
+
+    Allez c'est finis
+
+[33mcommit d45f5b7ba311d0f852cf741f66e60733898d2667[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:47:23 2023 +0200
+
+    Vivement la fin des test
+
+[33mcommit 79464336e7a266deced9958c0f254673669feddc[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:45:54 2023 +0200
+
+    Git ou objet a décider
+
+[33mcommit 9ad1371fbe57ad473f7d628b7b5f3299062c07fe[m
+Merge: 38432fc 901f4e0
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:44:30 2023 +0200
+
+    Merge branch 'Master' of https://github.com/EeralDev/ConsolSmallApp into Master
+
+[33mcommit 901f4e0ad2a46d8efe0439d4ecbeedc5d4c4ba2a[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:43:40 2023 +0200
+
+    On continue a essayer les merge etc ...
+
+[33mcommit 38432fcc3bcb584bbc370a6193c5d228d21243f6[m[33m ([m[1;33mtag: Fin_module_travail_groupe[m[33m)[m
+Merge: 8f31ea2 8b0fdd8
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:40:16 2023 +0200
+
+    Merge branch 'Master' of https://github.com/EeralDev/ConsolSmallApp into Master
+
+[33mcommit 8f31ea21334bb0615d299fb53de7f76d6af257e7[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:39:46 2023 +0200
+
+    Commit marquant la fin du cours sur les récupération de code en parrallèle
+
+[33mcommit 8b0fdd8d0c4587b39db3df55e0a0448e53f99718[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:35:40 2023 +0200
+
+    J'ai retirer tout le truc nul lié au tentative de merge et de rebase
+
+[33mcommit 9d1f9263cc20bff16a40f560c5eac2cd0819694a[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:32:29 2023 +0200
+
+    Peut être la le rebase va marcher
+
+[33mcommit 242504c49970af32ecf864d0ec605089a9ed6c5b[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:30:07 2023 +0200
+
+    on continue a rebase
+
+[33mcommit 34f73d42b4b77801c611f614dcfad0c72faaad61[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:27:18 2023 +0200
+
+    Le vrai va essayer d'accepter le pull et rebase
+
+[33mcommit a9e7cdfc1146c76dd0dc94ea68b525fca7b05d51[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:26:12 2023 +0200
+
+    On retent le rebase
+
+[33mcommit ffbf9617011f91ce29541090459657ce6bec8855[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:24:41 2023 +0200
+
+    Pourquoi il y a un décalage
+
+[33mcommit ee368b40840330a3b6bdf6114c5315247dd7519f[m
+Merge: b75f980 422ad0e
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:21:23 2023 +0200
+
+    Merge branch 'Master' of https://github.com/EeralDev/ConsolSmallApp into Master
+
+[33mcommit b75f980b2434f2873530834ca977b569b1713053[m
+Merge: d8eac3c 729900d
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:10:45 2023 +0200
+
+    On y arrive pas a rebase
+
+[33mcommit 422ad0e300a0c5908fa9ceec542fe60f90302adf[m
+Merge: d8eac3c 729900d
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:10:45 2023 +0200
+
+    On y arrive pas a rebase
+
+[33mcommit 729900d80a9fcb55ee2055aea3a08bda1cd7d4bd[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:06:39 2023 +0200
+
+    Mon commit de rebase
+
+[33mcommit d8eac3cefb805d8f442b34a2de8059a3cdefa206[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 20:00:53 2023 +0200
+
+    Je suis le clone et je tente le rebase
+
+[33mcommit 8bd8196c02877736ea5455e0f40571fd3deef92a[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 19:59:19 2023 +0200
+
+    On teste le rebase
+
+[33mcommit bc4c125c2b29b7952b68e0e8f8b72d5dcc68df60[m
+Merge: 3298452 d87024f
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 19:55:20 2023 +0200
+
+    Gestion de la situation ou tout le monde a commit comme un saguoin
+
+[33mcommit 3298452f49cc70cf616757f7f40f016458d1a6c9[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 19:47:36 2023 +0200
+
+    Je suis le clone qui essaie de commit et de push comme un saguoin
+
+[33mcommit d87024f8e81533f89f5520fa178e630b5397c159[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 19:44:24 2023 +0200
+
+    on cherche a faire des commit dans tout les sens
+
+[33mcommit 6893afd514e01d9252b30460b6c9bef75219f11d[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 19:39:16 2023 +0200
+
+     Mon premier conflit gérer :)
+
+[33mcommit e90ee24951f89ab7de5264752e75923c08ea9103[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 19:28:43 2023 +0200
+
+    Ajout du Console.WriteLine(NANANANA) de test
+
+[33mcommit 7b3345920aafdf8ed216c3c6c864732ef2c01e24[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Fri Jun 30 19:12:12 2023 +0200
+
+    Ajout d'un attribut a sudoku.cs
+
+[33mcommit 124a7a59dd460bc855a04e868b0a90c783a3b219[m
+Author: clone <ilyes.esma@outlook.fr>
+Date:   Wed Jun 28 19:49:33 2023 +0200
+
+    #1 : Ajout du readMe
+
+[33mcommit 7a1f1fb2773070737b342ea071d2f1b4a1d4a4fe[m[33m ([m[1;33mtag: CREATION_DU_CONSTRUCTEUR_SUDOKU[m[33m)[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Mon Jun 26 19:57:27 2023 +0200
+
+    Création du constructeur
+
+[33mcommit 180f0d6c75a0d05ed11675d41d7ccc41cf8e4070[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Sun Jun 25 20:55:42 2023 +0200
+
+    modification du'un nom d'attribut
+
+[33mcommit 8778fa3dc8a39ec3cf5e0d019ccb41e1645c30c0[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Sun Jun 25 20:51:50 2023 +0200
+
+    Ajout d'un attribut
+
+[33mcommit da7d35376d3cf53d87a8a05d871dffa481ec8d94[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Sun Jun 25 20:46:15 2023 +0200
+
+    Ajout de la Class Sudoku :
+
+[33mcommit 1def293b7a518b30ae134d418d6026a128bb5e37[m[33m ([m[1;33mtag: DEBUT_DE_FORMATION_GIT[m[33m)[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Sun Jun 25 20:31:36 2023 +0200
+
+    découverte de git
+
+[33mcommit 5bb4af8e86b78985e7212ac390b1bb79e21a2d1c[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Wed Jun 21 18:05:46 2023 +0200
+
+    Remove DB Folder
+
+[33mcommit cb7553e5fb30e7911ca77e33b652a9d929e12aaf[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Wed Jun 21 18:05:22 2023 +0200
+
+    Remove DB Folder
+
+[33mcommit 6fb7b96a6e8eac395d8ab9c63e8457cc44920fac[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Wed Jun 21 17:57:33 2023 +0200
+
+    Remove ignored files
+
+[33mcommit 313a1eac55627be3dddce19d542641d006dbf2b0[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Wed Jun 21 17:56:09 2023 +0200
+
+    .gitIgnore Update Test
+
+[33mcommit 52d390153af239874b632510fc1ffa9618ea730a[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Wed Jun 21 17:54:08 2023 +0200
+
+    .gitIgnore Update
+
+[33mcommit 88c2267f77b6f972f07b1a89ef8c3dcfac325fc3[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Wed Jun 21 17:45:53 2023 +0200
+
+    Remove ignored files
+
+[33mcommit aff37153089578d005a6db43bbcd9dd486239607[m
+Merge: 824bad3 5ea1d77
+Author: EeralDev <119493111+EeralDev@users.noreply.github.com>
+Date:   Wed Jun 21 12:37:19 2023 +0200
+
+    Merge pull request #1 from EeralDev/Pendu
+    
+    Ajout des tache a réaliser
+
+[33mcommit 5ea1d77e38ba9b58c56541711022127c959ea0ca[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Wed Jun 21 12:35:12 2023 +0200
+
+    Ajout des tache a réaliser
+
+[33mcommit 824bad39f6ec1e13bcf78b99024a341823802939[m
+Author: EeralDev <ilyes.esma@outlook.fr>
+Date:   Wed Jun 21 10:37:27 2023 +0200
+
+    First commit
