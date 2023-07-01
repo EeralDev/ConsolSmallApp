@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace ConsolSmallApp
 {
     //Nouveaux jeux a développer : Sudoku
+    //Petit site web pour s'inspirer et commencer tranquillement le dev du sudoku
+    //https://www.programmingalgorithms.com/algorithm/sudoku/
     internal class Sudoku
     {
         //Du coup la je fais juste un petit commit pour décaler ma branche Sudoku
