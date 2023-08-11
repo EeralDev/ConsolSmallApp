@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Je suis dans le build mon frère ça ne vient que de commencer.'
+                echo 'Je suis dans le build mon frere ça ne vient que de commencer.'
             }
         }
         stage('Test'){
@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Deploy'){
             steps {
-                echo 'L'enfer est terminer frérot, l\'application est déployer.'
+                echo 'L\'enfer est terminer frerot, l\'application est déployer.'
             }
         }
     }
