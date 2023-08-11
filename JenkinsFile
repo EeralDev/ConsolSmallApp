@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Deploy'){
             steps {
-                echo 'L'enfer est terminer frérot, l'application est déployer.'
+                echo 'L'enfer est terminer frérot, l\'application est déployer.'
             }
         }
     }
