@@ -1,0 +1,21 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Je suis dans le build mon frère ça ne vient que de commencer.'
+            }
+        }
+        stage('Test'){
+            steps {
+                echo 'Je suis dans les tests poto, vois-tu la lumière.'
+            }
+        }
+        stage('Deploy'){
+            steps {
+                echo 'L'enfer est terminer frérot, l'application est déployer.'
+            }
+        }
+    }
+}
